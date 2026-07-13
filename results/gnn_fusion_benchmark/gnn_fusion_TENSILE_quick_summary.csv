@@ -1,0 +1,2 @@
+﻿Target,Model,Family,R2_mean,R2_std,RMSE_mean,RMSE_std,MAE_mean,MAE_std
+TENSILE,Graph_GINE_Fusion_chem_balanced_balanced,chem_aware_balanced_gnn_fusion,0.6238539781690603,0.04555791608228402,11.109829843126096,1.0741859330932413,8.119917283582984,0.3785018942001744

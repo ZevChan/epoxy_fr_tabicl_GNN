@@ -1,0 +1,10 @@
+{
+    "test_r2": 0.9130145525155369,
+    "test_rmse": 1.3288624360706431,
+    "best_params": {
+        "n_estimators": 8,
+        "feat_shuffle_method": "latin",
+        "outlier_threshold": 6.0
+    },
+    "best_k": 71
+}

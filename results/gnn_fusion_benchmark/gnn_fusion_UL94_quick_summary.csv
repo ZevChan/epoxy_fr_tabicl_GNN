@@ -1,0 +1,2 @@
+﻿Target,Model,Family,AUC_mean,AUC_std,F1_mean,F1_std,Accuracy_mean,Accuracy_std
+UL94,Graph_GINE_Fusion_chem_balanced_balanced,chem_aware_balanced_gnn_fusion,0.8061406264810534,0.0066466515559822645,0.6564034173311322,0.015795945061706194,0.7431077502243428,0.016624915799951828

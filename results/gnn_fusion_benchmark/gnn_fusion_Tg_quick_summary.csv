@@ -1,0 +1,2 @@
+﻿Target,Model,Family,R2_mean,R2_std,RMSE_mean,RMSE_std,MAE_mean,MAE_std
+Tg,Graph_GINE_Fusion_chem_balanced_balanced,chem_aware_balanced_gnn_fusion,0.8235630304796681,0.029370985080833564,12.512886640087268,0.806742021061547,8.844096907301422,0.5978095516935945

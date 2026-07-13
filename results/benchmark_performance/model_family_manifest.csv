@@ -1,0 +1,10 @@
+﻿Family,Meaning
+descriptor_tabicl,Pure descriptors + processing parameters + TabICL
+descriptor_tabpfn,Pure descriptors + processing parameters + TabPFN
+descriptor_tree_boosting,XGBoost / LightGBM / CatBoost / GBR descriptor baselines
+descriptor_tree_bagging,RandomForest / ExtraTrees descriptor baselines
+descriptor_linear_kernel_nn,"Linear, kernel, PLS, SVR, MLP and ELM descriptor baselines"
+plain_gnn,Molecular graph encoders without descriptor fusion
+fusion_sysfilm,GNN-system embedding or descriptor-GNN fusion methods
+residual_gnn,Residual learning after descriptor model
+other,Unclassified or auxiliary model
